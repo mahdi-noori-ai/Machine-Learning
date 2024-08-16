@@ -83,19 +83,42 @@ machine-learning-projects/
 │   │   ├── sentiment_analysis.ipynb
 │   │   └── README.md
 │   ├── text-classification/
+│   │   ├── text_classification.ipynb
+│   │   └── README.md
 │   └── named-entity-recognition/
+│       ├── ner.ipynb
+│       └── README.md
 ├── computer-vision/
 │   ├── image-classification/
+│   │   ├── image_classification.ipynb
+│   │   └── README.md
 │   ├── object-detection/
+│   │   ├── object_detection.ipynb
+│   │   └── README.md
 │   └── image-segmentation/
+│       ├── image_segmentation.ipynb
+│       └── README.md
 ├── time-series/
 │   ├── stock-prediction/
+│   │   ├── stock_prediction.ipynb
+│   │   └── README.md
 │   ├── weather-forecasting/
+│   │   ├── weather_forecasting.ipynb
+│   │   └── README.md
 │   └── anomaly-detection/
+│       ├── anomaly_detection.ipynb
+│       └── README.md
 └── recommendation-systems/
     ├── collaborative-filtering/
+    │   ├── collaborative_filtering.ipynb
+    │   └── README.md
     ├── content-based/
+    │   ├── content_based.ipynb
+    │   └── README.md
     └── hybrid-models/
+        ├── hybrid_models.ipynb
+        └── README.md
+
 
 
 ## **Contributing**
