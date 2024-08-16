@@ -76,9 +76,8 @@ Example for running a project:
 
 ## **Project Structure**
 
-
 machine-learning-projects/
-├── nlp/
+
 │   ├── sentiment-analysis/
 │   │   ├── sentiment_analysis.ipynb
 │   │   └── README.md
@@ -118,7 +117,6 @@ machine-learning-projects/
     └── hybrid-models/
         ├── hybrid_models.ipynb
         └── README.md
-
 
 
 ## **Contributing**
